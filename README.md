@@ -19,7 +19,7 @@ The implementation of the core algorithm was contributed by Drs Chia-Yu Chen, Er
 * More to be added...
 
 ## 5) Discussions
-Many research used the online [CRONUS calculator](). Here is a grah that compared the published erosion rate (all reported to have used the CRONUS calculator, some reported corrections of vegetation) , against the erosion rate calculated from this method recalculated from the same concentration and error by [Wang 2021](https://www.research-collection.ethz.ch/handle/20.500.11850/476167), reported in Table 1 of [Wang 2021](https://www.research-collection.ethz.ch/handle/20.500.11850/476167). Basins in the grah are escarpment basins with very minor tectonic activities, and not significant steep slopes. Discussions are welcome.  
+Many research used the online [CRONUS calculator](https://hess.ess.washington.edu/). Here is a grah that compared the published erosion rate (all reported to have used the CRONUS calculator, some reported corrections of vegetation) , against the erosion rate calculated from this method recalculated from the same concentration and error by [Wang 2021](https://www.research-collection.ethz.ch/handle/20.500.11850/476167), reported in Table 1 of [Wang 2021](https://www.research-collection.ethz.ch/handle/20.500.11850/476167). Basins in the grah are escarpment basins with very minor tectonic activities, and not significant steep slopes. Discussions are welcome.  
 ![erosion_rate](https://user-images.githubusercontent.com/108676831/223438369-f1372112-13d1-4cbd-b072-05975fa97de5.png)
 
 
