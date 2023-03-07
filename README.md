@@ -13,8 +13,8 @@ The implementation of the core algorithm was contributed by Drs Chia-Yu Chen, Er
 * The shielding correction of surface production rate has to be determined by the users. Please refer to the [DiBiase 2018 paper](https://esurf.copernicus.org/articles/6/923/2018/) for detailed info about shielding correction. In general, there is no need to introduce shielding correction. But for very steep catchment, topogrpahic shielding has considerable effect on the nuclide production. Once users determine whether or not to include topographic shielding in the production calculation, assign the flag variable in the _Erosion_from_detrital_Be10.m_, and the shielding is calculated in the _CNP.m_ function. 
 
 ## 4) A list of publications applied this algorithm
-* [Chen et al. 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4753)
 * [Wang et al. 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009979)
+* [Chen et al. 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4753)
 * [Ott et al. 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JF005142)
 * More to be added...
 
