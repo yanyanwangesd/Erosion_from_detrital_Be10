@@ -9,5 +9,6 @@ This repository includes functions and scripts needed for erosion rate calculati
 The implementation of the core algorithm was contributed by Drs Chia-Yu Chen, Erica Erlanger, Richard Ott, and Yanyan Wang. 
 
 ## 3) A list of publications applied this algorithm
-
-
+* [Chen et al. 2020](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4753)
+* [Wang et al. 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009979)
+* [Ott et al. 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JF005142)
