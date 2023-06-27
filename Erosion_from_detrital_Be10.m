@@ -119,6 +119,6 @@ rate = [erosion VTCRate1Std_low VTCRate1Std_up ];
 P0 = [sum(production.neutron.Z(:),'omitnan'), sum(production.smuon.Z(:),'omitnan'),sum(production.fmuon.Z(:),'omitnan') ]/sum(IDnan(:));
 
 % basin area
-basinArea =  sum(IDnan(:))*cs^2/1e6; % km2
+basinArea =  length(IDnan(:))*cs^2/1e6; % km2
 
 
